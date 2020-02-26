@@ -1,0 +1,12 @@
+[DEBUG] 2020-02-26 21:42:37.419 [main] mainhouse - Caught
+[ERROR] 2020-02-26 21:42:37.422 [main] mainhouse - input has to be positive
+[INFO ] 2020-02-26 21:42:37.422 [main] mainhouse - once again enter the area of material
+[DEBUG] 2020-02-26 21:42:51.333 [main] mainhouse - Caught
+[ERROR] 2020-02-26 21:42:51.333 [main] mainhouse - input has to be positive
+[INFO ] 2020-02-26 21:42:51.333 [main] mainhouse - once again enter the area of material
+[INFO ] 2020-02-26 21:43:01.221 [main] mainhouse - Total cost of the house is:17400
+[DEBUG] 2020-02-26 21:43:46.769 [main] mainhouse - Caught
+[ERROR] 2020-02-26 21:43:46.770 [main] mainhouse - input has to be positive
+[INFO ] 2020-02-26 21:43:46.770 [main] mainhouse - once again enter the rate
+[INFO ] 2020-02-26 21:43:54.688 [main] mainhouse - Simple Interest:0.1
+[INFO ] 2020-02-26 21:43:54.688 [main] mainhouse - Compound Interest:5.099999904632568
